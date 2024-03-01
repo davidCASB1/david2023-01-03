@@ -1,0 +1,22 @@
+This test two numbers at the same line
+my washington state driver's license is EA901234567, and this BK135768 is from my Ohio driver license
+this is end of the test
+
+
+
+
+next will test patterns in consective lines
+for this Maryland driving ID is 
+	N-219-901-482-897 which 
+has complicated pattern
+and this number I94811939 
+is from Nebraska auto license
+that completes this portion of the test
+
+
+
+
+this last one is more boardline cases
+Government id S94801008 is from Massecusette
+and this number G938-992-48-398-1 is credential from Florida 
+This is the last test scenario
