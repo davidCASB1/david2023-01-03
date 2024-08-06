@@ -1,0 +1,40 @@
+**Car Rental Agreement**
+
+Rental Location: LA Rent-a-Car
+Rental 02/01/2024 to 02/06/2024
+Rental Agreement Number: NJ456789012
+
+**Renter's Information:**
+Full Name: Daniel Miller
+Driver's License Number: C9384449
+Date of Birth: 02/18/1988
+Contact Phone: (213) 555-6789
+Email: daniel.miller88@gmail.com
+Home Address: 202 Birch Blvd, Los Angeles, CA 90001
+
+**Vehicle Information:**
+Make/Model: Nissan Altima
+License Plate Number: CA98765
+Vehicle Identification Number (VIN): 1N4AL3AP6FC123456
+Rental Rate: $55.00
+Mileage Limit: 170 miles
+
+**Rental Terms:**
+1. Rental Period: The rental period begins on [Start Date] and ends on [End Date].
+2. Mileage Limit: The rental includes [Mileage Limit] miles. Excess mileage will be charged at [$X] per mile.
+3. Fuel Policy: The vehicle should be returned with the same amount of fuel as when rented. A refueling fee of [$X] per gallon may apply.
+4. Insurance: [Description of Insurance Coverage]
+5. Additional Drivers: Additional drivers are allowed with prior approval and may incur an additional fee.
+6. Prohibited Uses: The vehicle should not be used for [List of Prohibited Uses].
+7. Smoking: No smoking is allowed in the vehicle. A cleaning fee of [$X] will apply for smoking violations.
+8. Pets: Pets are not allowed in the vehicle unless authorized.
+9. Returning the Vehicle: The vehicle must be returned on [End Date] at [Return Location]. Late returns may incur a late fee.
+10. Damages: The renter is responsible for any damages to the vehicle during the rental period.
+11. Payment: Payment is due upon return of the vehicle. Additional charges may apply for excess mileage, fuel, or damages.
+12. Cancellation Policy: [Cancellation Policy]
+13. Acknowledgment: By signing this agreement, the renter acknowledges and agrees to all terms and conditions.
+
+**Renter's Signature:** Daniel Miller
+**Date:** 10/12/2023
+
+
