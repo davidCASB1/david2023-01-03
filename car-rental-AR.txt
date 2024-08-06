@@ -1,0 +1,40 @@
+**Car Rental Agreement**
+
+Rental Location: Little Rock Car Rentals
+Rental 02/01/2024 to 02/04/2024
+Rental Agreement Number: ZF876543210
+
+**Renter's Information:**
+Full Name: Sarah Taylor
+Driver's License Number: 49839922
+Date of Birth: 11/05/1991
+Contact Phone: (501) 555-2345
+Email: sarah.taylor91@gmail.com
+Home Address: 101 Cedar Rd, Little Rock, AR 72201
+
+**Vehicle Information:**
+Make/Model: Honda Accord
+License Plate Number: AR45678
+Vehicle Identification Number (VIN): 1HGCR2F33FA123456
+Rental Rate: $52.00
+Mileage Limit: 160 miles
+
+**Rental Terms:**
+1. Rental Period: The rental period begins on [Start Date] and ends on [End Date].
+2. Mileage Limit: The rental includes [Mileage Limit] miles. Excess mileage will be charged at [$X] per mile.
+3. Fuel Policy: The vehicle should be returned with the same amount of fuel as when rented. A refueling fee of [$X] per gallon may apply.
+4. Insurance: [Description of Insurance Coverage]
+5. Additional Drivers: Additional drivers are allowed with prior approval and may incur an additional fee.
+6. Prohibited Uses: The vehicle should not be used for [List of Prohibited Uses].
+7. Smoking: No smoking is allowed in the vehicle. A cleaning fee of [$X] will apply for smoking violations.
+8. Pets: Pets are not allowed in the vehicle unless authorized.
+9. Returning the Vehicle: The vehicle must be returned on [End Date] at [Return Location]. Late returns may incur a late fee.
+10. Damages: The renter is responsible for any damages to the vehicle during the rental period.
+11. Payment: Payment is due upon return of the vehicle. Additional charges may apply for excess mileage, fuel, or damages.
+12. Cancellation Policy: [Cancellation Policy]
+13. Acknowledgment: By signing this agreement, the renter acknowledges and agrees to all terms and conditions.
+
+**Renter's Signature:** Larkin Stanford
+**Date:** 10/12/2023
+
+
